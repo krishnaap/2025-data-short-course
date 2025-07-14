@@ -109,6 +109,7 @@ We appreciate these partnerships and look forward to working with you all!
 ***
 
 # Participants
+Please add your name, organization, GitHub username, and link to GitHub portfolio to the table below. To do this you will need to **fork** this repository, make the changes, and submit a **pull request** so that your changes can be added to the course repo.
 
 | Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
 | ----------- | ----------- | ---------- | ---------- |
