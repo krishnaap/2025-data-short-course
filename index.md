@@ -115,6 +115,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
+|Alicia Swimmer (consultant) | Sicangu Climate Center | Zuya Tawa | https://AliciaSwimmer.github.io
 
 
 # **Code of Conduct** 
