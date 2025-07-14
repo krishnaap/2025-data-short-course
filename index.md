@@ -115,7 +115,11 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
-|Heather Leach (student) | Missoula Firelab (USDA Forest Service) | HeatherEL | [https://heatherel.github.io/](https://heatherel.github.io/). |
+| Heather Leach (student) | Missoula Firelab (USDA Forest Service) | HeatherEL | [https://heatherel.github.io/](https://heatherel.github.io/). |
+| Alicia Swimmer (consultant) | Sicangu Climate Center | [Zuya Tawa](https://github.com/ZuyaTawa) | https://AliciaSwimmer.github.io
+| Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
+| Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
+| Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
