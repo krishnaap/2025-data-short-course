@@ -114,7 +114,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
+| [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |Madhra Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io)
 
 
 # **Code of Conduct** 
