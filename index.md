@@ -123,6 +123,8 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
 | Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
 | Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
+| Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
+
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
