@@ -128,7 +128,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | [Reed Humphrey](https://namedrop.io/reedhumphrey) (student) | Evans School, University of Washington | [reedhum](https://github.com/reedhum) | [https://reedhum.github.io/](https://reedhum.github.io/) |
 | Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
 | Jackson Furlong (student) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
-| Madhra Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
+| Madhura Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
 | Yen-Yi Wu (student)  | University of Wyoming  | [yenyi-wu]  | [https://yenyi-wu.github.io/](https://yenyi-wu.github.io/) |
 | Jackson Furlong (stude)nt) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
 | Madhra Kulkarni (student  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io)
