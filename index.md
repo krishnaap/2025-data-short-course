@@ -127,6 +127,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
 | Jackson Furlong (stude)nt) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
 | Madhra Kulkarni (student  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io)
+| Yasas Gamagedara (student) | Mississippi State University | kanthsaz | [https://kanthsaz.github.io](https://kanthsaz.github.io)
 
 
 # **Code of Conduct** 
