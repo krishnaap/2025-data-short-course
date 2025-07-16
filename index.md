@@ -127,7 +127,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | [Reed Humphrey](https://namedrop.io/reedhumphrey) (student) | Evans School, University of Washington | [reedhum](https://github.com/reedhum) | [https://reedhum.github.io/](https://reedhum.github.io/) |
 | Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
 | Jackson Furlong (student) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
-| Madhra Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
+| Madhura Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
 | Yen-Yi Wu (student)  | University of Wyoming  | [yenyi-wu]  | [https://yenyi-wu.github.io/](https://yenyi-wu.github.io/) |
 | Jackson Furlong (stude)nt) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
 | Madhra Kulkarni (student  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io)
@@ -136,6 +136,13 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Hector Zumbado Ulate (student)      | [School of Biological Sciences at the National University of Costa Rica](https://www.biologia.una.ac.cr/)       | [hzumbado](https://github.com/hzumbado/) | [https://hzumbado.github.io/hzumbado_ulate.github.io/](https://hzumbado.github.io/hzumbado_ulate.github.io/) |
 | Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
 |[Yasir Abbas](https://chyasirabbasjutt.github.io/)(Student) | [University of Agriculture Faisalabad](https://web.uaf.edu.pk/)| [chyasirabbasjutt](https://github.com/chyasirabbasjutt) | [https://chyasirabbasjutt.github.io/](https://chyasirabbasjutt.github.io/)
+| Taylor Akers (participant) | [ORISE](https://orise.orau.gov/) Post-Master's Fellow with the USDA Forest Service at the [Rocky Mountain Research Station](https://research.fs.usda.gov/rmrs) | [takers1124](https://github.com/takers1124) | [http://takers1124.github.io](http://takers1124.github.io) |
+| Gaurav Chakrabarty (student)  |   |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
+| Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
+| Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
+| Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511)] |
+| Krishnakumar AP (Student)      | MCC       | krishnaap | [https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)) |
+
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
   
