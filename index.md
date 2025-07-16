@@ -134,12 +134,17 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | [Khayrun(Mitu) Nahar ](https://namedrop.io/khayrunnahar) (Student)   | [Arizona State University](https://www.asu.edu/) | [KNM2023] |[https://github.com/KNM2023/KNM2023.github.io](https://github.com/KNM2023/KNM2023.github.io) |
 | Yasas Gamagedara (student) | Mississippi State University | kanthsaz | [https://kanthsaz.github.io](https://kanthsaz.github.io)
 | Hector Zumbado Ulate (student)      | [School of Biological Sciences at the National University of Costa Rica](https://www.biologia.una.ac.cr/)       | [hzumbado](https://github.com/hzumbado/) | [https://hzumbado.github.io/hzumbado_ulate.github.io/](https://hzumbado.github.io/hzumbado_ulate.github.io/) |
+| Yasas Gamagedara (student) | Mississippi State University | kanthsaz | [https://kanthsaz.github.io](https://kanthsaz.github.io)
+| Hector Zumbado Ulate (student)      | [School of Biological Sciences at the National University of Costa Rica](https://www.biologia.una.ac.cr/)       | [hzumbado](https://github.com/hzumbado/) | [https://hzumbado.github.io/hzumbado_ulate.github.io/](https://hzumbado.github.io/hzumbado_ulate.github.io/) |
+| Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
+|[Yasir Abbas](https://chyasirabbasjutt.github.io/)(Student) | [University of Agriculture Faisalabad](https://web.uaf.edu.pk/)| [chyasirabbasjutt](https://github.com/chyasirabbasjutt) | [https://chyasirabbasjutt.github.io/](https://chyasirabbasjutt.github.io/)
 | Taylor Akers (participant) | [ORISE](https://orise.orau.gov/) Post-Master's Fellow with the USDA Forest Service at the [Rocky Mountain Research Station](https://research.fs.usda.gov/rmrs) | [takers1124](https://github.com/takers1124) | [http://takers1124.github.io](http://takers1124.github.io) |
-| Gaurav Chakrabarty (student)  |   |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
+| Gaurav Chakrabarty (student)  | [BIT Mesra](https://bitmesra.ac.in)  |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
 | Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511)] |
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)) |
+| Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 
 
 # **Code of Conduct** 
