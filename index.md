@@ -125,8 +125,9 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
 | Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
 | Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
-| Jackson Furlong (stude)nt) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
-| Madhra Kulkarni (student  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io)
+| Jackson Furlong (student) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
+| Madhra Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
+| Yen-Yi Wu (student)  | University of Wyoming  | [yenyi-wu]  | [https://yenyi-wu.github.io/](https://yenyi-wu.github.io/) |
 
 
 # **Code of Conduct** 
