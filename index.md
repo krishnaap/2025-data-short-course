@@ -146,6 +146,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [[https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)](https://krishnaap.github.io/esii_course/)) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)) |
+| Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 
 
 # **Code of Conduct** 
