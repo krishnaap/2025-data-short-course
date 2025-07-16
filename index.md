@@ -124,6 +124,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
 | Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
 | Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
+| [Reed Humphrey](https://namedrop.io/reedhumphrey) (student) | Evans School, University of Washington | [reedhum](https://github.com/reedhum) | [https://reedhum.github.io/](https://reedhum.github.io/) |
 | Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
 | Jackson Furlong (student) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
 | Madhra Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
@@ -133,8 +134,6 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | [Khayrun(Mitu) Nahar ](https://namedrop.io/khayrunnahar) (Student)   | [Arizona State University](https://www.asu.edu/) | [KNM2023] |(https://github.com/KNM2023/KNM2023.github.io) |
 | Yasas Gamagedara (student) | Mississippi State University | kanthsaz | [https://kanthsaz.github.io](https://kanthsaz.github.io)
 | Hector Zumbado Ulate (student)      | [School of Biological Sciences at the National University of Costa Rica](https://www.biologia.una.ac.cr/)       | [hzumbado](https://github.com/hzumbado/) | [https://hzumbado.github.io/hzumbado_ulate.github.io/](https://hzumbado.github.io/hzumbado_ulate.github.io/) |
-
-
 
 
 # **Code of Conduct** 
