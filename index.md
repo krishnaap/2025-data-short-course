@@ -143,7 +143,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
 | Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
-| Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esii_course/](https://krishnaap.github.io/esii_course/) |
+| Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esiil_course/](https://krishnaap.github.io/esiil_course/) |
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 
 
